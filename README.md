@@ -6,3 +6,4 @@ changes file
 Hello, again!!!
 Edited again in master branch..
 Some changes in my README.md
+Some changes in my README.md with TortoiseGit...
